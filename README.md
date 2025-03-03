@@ -3,7 +3,7 @@
 list of relevant conferences, workshops, journals etc. 
 
 ## Conferences
-- CVPR (deadline November)
+- [IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/) (deadline November)
 - ECCV
 - ICCV
 - ACCV
