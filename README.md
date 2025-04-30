@@ -7,7 +7,7 @@ list of relevant conferences, workshops, journals etc.
 - [International Conference on Computer Vision (ICCV)](https://iccv.thecvf.com/Conferences/2025/CallForPapers) (taking turns with ECCV)
 - [The European Conference on Computer Vision (ECCV) ](https://eccv.ecva.net/), deadline: March 2026 (taking turns with ICCV)
 - [The 21st International Conference in Computer Analysis of Images and Patterns](https://caip2025.com/call-for-papers/)
-- [ACCV](https://accv2024.org/), deadline july 2026 ?
+- [Asian Conference on Computer Vision (ACCV)](https://accv2024.org/), deadline july 2026 ?
 - [IEEE conference series on Automatic Face and Gesture Recognition (FG)](https://fg2025.ieee-biometrics.org/) (Deadline September)
 - British Machine Vision Conference (BMVC)
 - IEEE International Conference on Multimedia & Expo (ICME)
