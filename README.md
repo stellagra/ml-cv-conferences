@@ -9,7 +9,17 @@ list of relevant conferences, workshops, journals etc.
 - [The 21st International Conference in Computer Analysis of Images and Patterns](https://caip2025.com/call-for-papers/)
 - [ACCV](https://accv2024.org/), deadline july 2026 ?
 - [IEEE conference series on Automatic Face and Gesture Recognition (FG)](https://fg2025.ieee-biometrics.org/) (Deadline September)
+- British Machine Vision Conference (BMVC)
+- IEEE International Conference on Multimedia & Expo (ICME)
+- International Conference on Image Analysis and Processing (ICIAP)
+- International Conference in Computer Analysis of Images and Patterns (CAIP)
+- International Conference on Pattern Recognition (ICPR)
+- International Symposium on Visual Computing (ISVC)
+- IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 
+- ICML
+- ICMR
 - Neurips
+- SIGGRAPH 
 
 ## Workshops
 - [IUI 2025 Workshop on Strengthening Engineering Psychology for Human-AI Interactions (STEP-HAI) ](https://step-hai.com/)
