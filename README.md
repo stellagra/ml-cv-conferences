@@ -1,6 +1,12 @@
-# Publication Venues
+# Machine Learning and Computer Vision Conferences
 
-list of relevant conferences, workshops, journals etc. 
+Incomplete list of machine learning and computer vision conferences ordered according to the month of the expected paper submission deadline.
+
+Note: 
+- The estimates are based on previous years.
+- Some links are agnostic to year. If the provided URL yields to a specific year, it is stated in the hyperlink text.
+- No claim to completeness or correctness is being made.
+- Selection is personal preferences, and might focus on mental health domain.
 
 ## Conferences
 chronological order according to deadline
@@ -29,6 +35,7 @@ chronological order according to deadline
 - ICMR
 - Neurips
 - SIGGRAPH 
+
 
 ## Workshops
 - [IUI 2025 Workshop on Strengthening Engineering Psychology for Human-AI Interactions (STEP-HAI) ](https://step-hai.com/)
