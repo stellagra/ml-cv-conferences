@@ -14,7 +14,9 @@ Looking for more? Check those collections:
 - [ai deadlines](https://aideadlin.es/?sub=,CG,CV,ML)
 
 ## Conferences
-chronological order according to deadline
+
+Chronological order according to anticipated deadline month.
+
 | Deadline    | Conference |
 | -------- | ------- |
 | January  | [International Conference on Machine Learning (ICML)](https://icml.cc/)    |
