@@ -14,6 +14,7 @@ chronological order according to deadline
 |  July    | [Asian Conference on Computer Vision (ACCV) 2024](https://accv2024.org/) (every 2nd year)|
 |  September | [IEEE conference series on Automatic Face and Gesture Recognition (FG) 2025](https://fg2025.ieee-biometrics.org/)|
 | September | [Northern Lights Deep Learning Conference (NLDL)](https://www.nldl.org/)|
+| September |  [Association of Computing Machinery (ACM) conference on Human Factors in Computing Systems (CHI) 2026](https://chi2026.acm.org/) |
 | November | [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr.thecvf.com/)|
 
 
