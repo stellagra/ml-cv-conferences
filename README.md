@@ -13,7 +13,9 @@ chronological order according to deadline
 |  May     | [British Machine Vision Conference (BMVC)](https://www.bmva.org/bmvc) |
 |  July    | [Asian Conference on Computer Vision (ACCV) 2024](https://accv2024.org/) (every 2nd year)|
 |  September | [IEEE conference series on Automatic Face and Gesture Recognition (FG) 2025](https://fg2025.ieee-biometrics.org/)|
+| September | [Northern Lights Deep Learning Conference (NLDL)](https://www.nldl.org/)|
 | November | [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr.thecvf.com/)|
+
 
 ## List to be processed 
 - [The 21st International Conference in Computer Analysis of Images and Patterns](https://caip2025.com/call-for-papers/)
