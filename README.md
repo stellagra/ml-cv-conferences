@@ -8,6 +8,11 @@ Note:
 - No claim to completeness or correctness is being made.
 - Selection is personal preferences, and might focus on mental health domain.
 
+Looking for more? Check those collections:
+- [wikicfp](http://www.wikicfp.com)
+- [visionbib](https://conferences.visionbib.com/Iris-Conferences.html)
+- [ai deadlines](https://aideadlin.es/?sub=,CG,CV,ML)
+
 ## Conferences
 chronological order according to deadline
 | Deadline    | Conference |
