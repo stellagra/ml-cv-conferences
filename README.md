@@ -17,27 +17,26 @@ Looking for more? Check those collections:
 
 Chronological order according to anticipated deadline month.
 
-| Deadline    | Conference |
-| -------- | ------- |
-| January  | [International Conference on Machine Learning (ICML)](https://icml.cc/)    |
-| January | [International Conference on Machine Learning (ICML)](https://icml.cc/) |
-| January | [Scandinavian Conference on Image Analysis (SCIA) 2025 ](https://scia2025.org/)
-|  March   | [The European Conference on Computer Vision (ECCV) ](https://eccv.ecva.net/), (every 2nd year, taking turns with ICCV)|
-|  March   | [International Conference on Computer Vision (ICCV)](https://iccv.thecvf.com/), (every 2nd year, taking turns with ECCV)|
-|April + June| [International Conference in Computer Analysis of Images and Patterns (CAIP) 2025](https://caip2025.com/) (2 rounds)|
-|  May     | [British Machine Vision Conference (BMVC)](https://www.bmva.org/bmvc) |
-|  July    | [Asian Conference on Computer Vision (ACCV) 2024](https://accv2024.org/) (every 2nd year)|
-| September | [IEEE conference series on Automatic Face and Gesture Recognition (FG) 2025](https://fg2025.ieee-biometrics.org/)|
-| September | [Northern Lights Deep Learning Conference (NLDL)](https://www.nldl.org/)|
-| September |  [Association of Computing Machinery (ACM) conference on Human Factors in Computing Systems (CHI) 2026](https://chi2026.acm.org/) |
-| November | [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr.thecvf.com/)|
 
+| Deadline       | Conference Month | Ranking | Conference Name + Link                                                                 |
+|----------------|------------------|---------|----------------------------------------------------------------------------------------|
+| January    | July         | A*      | [International Conference on Machine Learning (ICML)](https://icml.cc/)               |
+| January    | June         | B       | [Scandinavian Conference on Image Analysis (SCIA) 2025](https://scia2025.org/)        |
+| March      | October      | A*      | [The European Conference on Computer Vision (ECCV)](https://eccv.ecva.net/), (every 2nd year, taking turns with ICCV) |
+| March      | October      | A*      | [International Conference on Computer Vision (ICCV)](https://iccv.thecvf.com/), (every 2nd year, taking turns with ECCV) |
+| April & June  | September  | B       | [International Conference in Computer Analysis of Images and Patterns (CAIP) 2025](https://caip2025.com/) |
+| May        | November     | A       | [British Machine Vision Conference (BMVC)](https://www.bmva.org/bmvc)                 |
+| July       | December     | B       | [Asian Conference on Computer Vision (ACCV) 2024](https://accv2024.org/) (every 2nd year)       |
+| September  | June         | B       | [IEEE Conference on Automatic Face and Gesture Recognition (FG) 2025](https://fg2025.ieee-biometrics.org/) |
+| September  | January      | ? | [Northern Lights Deep Learning Conference (NLDL)](https://www.nldl.org/)              |
+| September  | April        | A*      | [ACM Conference on Human Factors in Computing Systems (CHI) 2026](https://chi2026.acm.org/) |
+| November   | June         | A*      | [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr.thecvf.com/) |
+| December 2025 | August  | B | [International Conference on Pattern Recognition (ICPR) 2026](https://icpr2026.org/) (every 2nd year)|
 
 ## List to be processed 
 - IEEE International Conference on Multimedia & Expo (ICME)
 - International Conference on Image Analysis and Processing (ICIAP)
 - International Conference in Computer Analysis of Images and Patterns (CAIP)
-- International Conference on Pattern Recognition (ICPR)
 - International Symposium on Visual Computing (ISVC)
 - IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 
 - ICMR
