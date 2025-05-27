@@ -6,7 +6,7 @@ Note:
 - The estimates are based on previous years.
 - Some links are agnostic to year. If the provided URL yields to a specific year, it is stated in the hyperlink text.
 - No claim to completeness or correctness is being made.
-- Selection is personal preferences, and might focus on mental health domain.
+- Selection is personal preferences.
 
 Looking for more? Check those collections:
 - [wikicfp](http://www.wikicfp.com)
@@ -15,7 +15,8 @@ Looking for more? Check those collections:
 
 ## Conferences
 
-Chronological order according to anticipated deadline month.
+Chronological order according to anticipated (!) deadline month. 
+Note: this refers to the main conference. There might be deadlines for workshops (part of the conference) which are after the main conference deadline.
 
 
 | Deadline       | Conference Month | Ranking | Conference Name + Link                                                                 |
