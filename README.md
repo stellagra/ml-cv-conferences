@@ -28,7 +28,7 @@ Note: this refers to the main conference. There might be deadlines for workshops
 | April & June  | September  | B       | [International Conference in Computer Analysis of Images and Patterns (CAIP) 2025](https://caip2025.com/) |
 | May        | November     | A       | [British Machine Vision Conference (BMVC)](https://www.bmva.org/bmvc)                 |
 | July       | December     | B       | [Asian Conference on Computer Vision (ACCV) 2024](https://accv2024.org/) (every 2nd year)       |
-| September  | June         | B       | [IEEE Conference on Automatic Face and Gesture Recognition (FG) 2025](https://fg2025.ieee-biometrics.org/) |
+| September  | May         | B       | [IEEE Conference on Automatic Face and Gesture Recognition (FG)](https://ieee-biometrics.org/conferences/flagship/fg/) [2025](https://fg2025.ieee-biometrics.org/) |
 | September  | January      | ? | [Northern Lights Deep Learning Conference (NLDL)](https://www.nldl.org/)              |
 | September  | April        | A*      | [ACM Conference on Human Factors in Computing Systems (CHI) 2026](https://chi2026.acm.org/) |
 | November   | June         | A*      | [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr.thecvf.com/) |
